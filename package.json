@@ -1,0 +1,14 @@
+{
+  "name": "command.ts",
+  "version": "1.0.0",
+  "description": "Management Command for Typescript",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "command": "node dist/cli"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
